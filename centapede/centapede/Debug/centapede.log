@@ -1,0 +1,18 @@
+﻿  CentapedeSource.c
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(56): warning C4047: 'function': 'Body *' differs in levels of indirection from 'Body (*)[100]'
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(56): warning C4024: 'growBody': different types for formal and actual parameter 1
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(59): warning C4047: 'function': 'Body *' differs in levels of indirection from 'Body (*)[100]'
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(59): warning C4024: 'drawBody': different types for formal and actual parameter 1
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(59): warning C4048: different array subscripts: 'char (*)[100]' and 'char (*)[25][100]'
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(75): warning C4013: 'kbhit' undefined; assuming extern returning int
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(76): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(88): warning C4047: 'function': 'Body *' differs in levels of indirection from 'Body (*)[100]'
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(88): warning C4024: 'moveBody': different types for formal and actual parameter 1
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(95): warning C4047: 'function': 'Body *' differs in levels of indirection from 'Body (*)[100]'
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(95): warning C4024: 'moveBody': different types for formal and actual parameter 1
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(102): warning C4047: 'function': 'Body *' differs in levels of indirection from 'Body (*)[100]'
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(102): warning C4024: 'moveBody': different types for formal and actual parameter 1
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(109): warning C4047: 'function': 'Body *' differs in levels of indirection from 'Body (*)[100]'
+c:\users\sir andrew\documents\visual studio 2015\projects\centapede\centapede\centapedesource.c(109): warning C4024: 'moveBody': different types for formal and actual parameter 1
+  centapede.vcxproj -> C:\Users\Sir Andrew\Documents\Visual Studio 2015\Projects\centapede\Debug\centapede.exe
+  centapede.vcxproj -> C:\Users\Sir Andrew\Documents\Visual Studio 2015\Projects\centapede\Debug\centapede.pdb (Full PDB)
