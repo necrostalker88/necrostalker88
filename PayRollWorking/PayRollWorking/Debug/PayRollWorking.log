@@ -1,0 +1,20 @@
+﻿  Source.c
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(21): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(21): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(22): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(22): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(23): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(23): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(24): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(24): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(25): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(25): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(26): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(27): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(27): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(17): warning C4101: 'hoursArrary': unreferenced local variable
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(18): warning C4101: 'rateArray': unreferenced local variable
+c:\users\sir andrew\documents\visual studio 2015\projects\payrollworking\payrollworking\source.c(19): warning C4101: 'payArrary': unreferenced local variable
+  PayRollWorking.vcxproj -> C:\Users\Sir Andrew\Documents\Visual Studio 2015\Projects\PayRollWorking\Debug\PayRollWorking.exe
+  PayRollWorking.vcxproj -> C:\Users\Sir Andrew\Documents\Visual Studio 2015\Projects\PayRollWorking\Debug\PayRollWorking.pdb (Full PDB)
