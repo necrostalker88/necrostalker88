@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\sir andrew\documents\visual studio 2015\projects\mc exam\mc exam\source.cpp(71): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\sir andrew\documents\visual studio 2015\projects\mc exam\mc exam\source.cpp(71): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\sir andrew\documents\visual studio 2015\projects\mc exam\mc exam\source.cpp(127): warning C4476: 'printf' : unknown type field character '!' in format specifier
+  MC Exam.vcxproj -> C:\Users\Sir Andrew\Documents\Visual Studio 2015\Projects\MC Exam\Debug\MC Exam.exe
+  MC Exam.vcxproj -> C:\Users\Sir Andrew\Documents\Visual Studio 2015\Projects\MC Exam\Debug\MC Exam.pdb (Full PDB)
